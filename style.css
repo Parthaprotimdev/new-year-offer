@@ -1,0 +1,7 @@
+body {
+  margin: 0px;
+}
+.banner-container {
+  width: 1320px;
+  border: 2px solid red;
+}
